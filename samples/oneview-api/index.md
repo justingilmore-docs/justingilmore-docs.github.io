@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../style.css">
+
 # HPE OneView API
 ## Project Context
 I have modernized this legacy content into modern Markdown.
