@@ -5,6 +5,11 @@ description: Technical Writing Samples
 aux_links:
  "My GitHub": "https://github.com/justingilmore-docs"
 
+ nav_config:
+      show_full_navigation: true
+ back_to_top: true
+ back_to_top_link: "#"
+
  # Standard Sidebar Settings
  search_enabled: true
  heading_anchors: true
