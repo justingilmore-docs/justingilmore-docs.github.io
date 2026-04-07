@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 # Justin Gilmore | Technical Writer
 
 Highly proficient remote Technical Writer with 13 years of specialized experience in documenting complex B2B enterprise IT software and global initiatives for international organizations. Expert in end-to-end content lifecycle management, including version control (Git/GitHub), API documentation, Content Management Systems (CMS), and translation workflows. Proven ability to quickly master new domains and tools and produce excellent deliverables while working remotely with minimal supervision.
