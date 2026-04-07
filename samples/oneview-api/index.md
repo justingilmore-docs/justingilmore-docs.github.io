@@ -32,11 +32,15 @@ The following JSON excerpt demonstrates how to assign a **Network Set** across m
 }
 ```
 
-Parameter,Type,Description
-networkUri,URI,Required. The unique identifier for the Network Set. Using a Network Set allows the profile to carry multiple VLANs over a single logical connection.
-ports,Array,"Defines the physical hardware paths. Specifying multiple ports (e.g., 1:1 and 1:2) enables hardware-level redundancy."
+| Parameter | Type | Description |
+| :--- | :--- | :--- |
+| `network_uri` | URI | **Required.** The unique identifier for the network set. Using a network set allows a profile to carry multiple VLANs over a single logical connection. |
+| `ports` | Array | Defines the physical hardware path. Specifying multiple ports (e.g., `1:1` and `1:2`) enables hardware-level redundancy. |
+
 
 ### Example Response
+
+
 **Status: 201 Created**
 
 ```json
@@ -51,13 +55,15 @@ ports,Array,"Defines the physical hardware paths. Specifying multiple ports (e.g
 ## Response Handling
 The OneView API uses standard HTTP status codes. A 201 Created indicates a successful profile assignment, while 4xx codes indicate a request error that requires user intervention.
 
-Status Code,Type,Description
-400,Bad Request,"The JSON is malformed or missing a required field (e.g., name)."
-401,Unauthorized,The auth token is missing or has expired.
-403,Forbidden,"The account lacks the ""Server administrator"" permissions required to create profiles."
-404,Not Found,The serverHardwareUri provided does not exist in the appliance inventory.
-409,Conflict,↳ The selected server is already assigned to another profile.
-500,Internal Error,An unexpected communication failure between the appliance and the hardware.
+| Status Code | Type | Description |
+| :--- | :--- | :--- |
+| `400` | Bad Request | The server could not understand the request due to invalid syntax or missing required parameters. |
+| `401` | Unauthorized | Authentication is required and has failed or has not yet been provided. Check your Bearer token. |
+| `403` | Forbidden | The server understood the request but refuses to authorize it (e.g., insufficient permissions for the URI). |
+| `404` | Not Found | The requested resource (Network URI or Port) could not be found on the server. |
+| `409` | Conflict | The request could not be completed due to a conflict with the current state of the target resource. |
+| `500` | Internal Server Error | The server encountered an unexpected condition that prevented it from fulfilling the request. |
+
 
 {
   "errorCode": "RESOURCE_ALREADY_ASSIGNED",
