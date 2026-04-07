@@ -35,5 +35,6 @@ Highly proficient remote Technical Writer with 13 years of specialized experienc
 
 ## 📫 Contact
 * [LinkedIn Profile](https://www.linkedin.com/in/justin-gilmore-163baa44)
-* [1justingilmore@gmail.com]
+* &#49;&#106;&#117;&#115;&#116;&#105;&#110;&#103;&#105;&#108;&#109;&#111;&#114;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+
 
