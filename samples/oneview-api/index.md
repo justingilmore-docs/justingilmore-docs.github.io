@@ -75,4 +75,7 @@ The OneView API uses standard HTTP status codes. A 201 Created indicates a succe
   ]
 }
 ```
+### Official Documentation
+For complete endpoint details and real-time testing, please refer to the official API documentation:
 
+[View Original API Reference](https://support.hpe.com/docs/display/public/dp00007443en_us/index.html#rest/server-profiles )
