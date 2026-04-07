@@ -7,7 +7,8 @@ nav_order: 2
 
 # HPE OneView API
 ## Project Context
-I have modernized this legacy content into modern Markdown.
+I have restructured this legacy content into a standardized Markdown format.
+
 ### Request Example: Multi-Interface Rack Profile
 The following JSON excerpt demonstrates how to assign a **Network Set** across multiple physical ports for high-bandwidth redundancy.
 
