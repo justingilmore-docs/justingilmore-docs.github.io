@@ -64,7 +64,7 @@ The OneView API uses standard HTTP status codes. A 201 Created indicates a succe
 | `409` | Conflict | The request could not be completed due to a conflict with the current state of the target resource. |
 | `500` | Internal Server Error | The server encountered an unexpected condition that prevented it from fulfilling the request. |
 
-
+```json
 {
   "errorCode": "RESOURCE_ALREADY_ASSIGNED",
   "message": "The server hardware at /rest/server-hardware/UUID is already assigned.",
@@ -74,5 +74,5 @@ The OneView API uses standard HTTP status codes. A 201 Created indicates a succe
     "Check for existing profiles"
   ]
 }
+```
 
-[← Back to Portfolio Home](../../)
