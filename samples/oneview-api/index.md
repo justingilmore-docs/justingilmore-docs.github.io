@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HPE OneView API
-parent: Writing Samples
+parent: Technical Documentation
 nav_order: 2
 ---
 
