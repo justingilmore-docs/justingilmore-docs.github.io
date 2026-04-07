@@ -23,17 +23,17 @@ Highly proficient remote Technical Writer with 13 years of specialized experienc
 ---
 
 ## 🛠️ Skills & Tools
-**Code/Markup** DITA XML, Markdown, HTML, JSON, Markup Languages  
-**Generators** Jekyll  
-**Version Control** Git, GitHub, GitLab  
-**API Docs** Swagger/OpenAPI, Postman  
-**Content Management/Authoring** MadCap Flare, Oxygen XML, XMetal, RoboHelp, Astoria, Windchill, SharePoint, SAP, Microsoft Office, Adobe Acrobat, Adobe Illustrator, WordPress  
-**Other Tools** Snagit, CAD Models, Engineering Drawings, Bills of Material (BOMs), Virtual Machines
+**Code/Markup:** DITA XML, Markdown, HTML, JSON, Markup Languages  
+**Generators:** Jekyll  
+**Version Control:** Git, GitHub, GitLab  
+**API Docs:** Swagger/OpenAPI, Postman  
+**Content Management/Authoring:** MadCap Flare, Oxygen XML, XMetal, RoboHelp, Astoria, Windchill, SharePoint, SAP, Microsoft Office, Adobe Acrobat, Adobe Illustrator, WordPress  
+**Other Tools:** Snagit, CAD Models, Engineering Drawings, Bills of Material (BOMs), Virtual Machines
 
 
 ---
 
 ## 📫 Contact
-* [LinkedIn Profile Link]
-* [Email Address]
+* [LinkedIn Profile](https://www.linkedin.com/in/justin-gilmore-163baa44)
+* [1justingilmore@gmail.com]
 
