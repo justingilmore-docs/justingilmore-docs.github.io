@@ -1,4 +1,9 @@
-<link rel="stylesheet" href="../../style.css">
+---
+layout: default
+title: HPE OneView API
+parent: Writing Samples
+nav_order: 2
+---
 
 # HPE OneView API
 ## Project Context
