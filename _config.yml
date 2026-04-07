@@ -1,15 +1,15 @@
 remote_theme: just-the-docs/just-the-docs
-title: Justin Gilmore Portfolio
+title: Justin Portfolio
 description: Technical Writing Samples
 
+# Force the navigation to render
+nav_config:
+  show_full_navigation: true
+
+# External Link (Ensure 2 spaces before the name)
 aux_links:
- "My GitHub": "https://github.com/justingilmore-docs"
+  "My GitHub": "https://github.com/justingilmore-docs"
 
- nav_config:
-      show_full_navigation: true
- back_to_top: true
- back_to_top_link: "#"
-
- # Standard Sidebar Settings
- search_enabled: true
- heading_anchors: true
+# Feature Toggles
+search_enabled: true
+heading_anchors: true
