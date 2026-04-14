@@ -4,9 +4,9 @@ title: Home
 nav_order: 1
 ---
 
-# Justin Gilmore | Technical Writer
+# Justin Gilmore | Senior Technical Writer
 
-Highly proficient remote Technical Writer with 13 years of specialized experience in documenting complex B2B enterprise IT software and global initiatives for international organizations. Expert in end-to-end content lifecycle management, including version control (Git/GitHub), API documentation, Content Management Systems (CMS), and translation workflows. Proven ability to quickly master new domains and tools and produce excellent deliverables while working remotely with minimal supervision.
+Senior **Remote** Technical Writer with **13+ years of experience** documenting complex B2B enterprise infrastructure and global logistics systems. Expert in bridging legacy documentation with modern **Docs-as-Code workflows**, including **Git-based lifecycles** and **API reference development**. Proven ability to **rapidly master new technical domains**, specialized tools, and complex codebases with minimal oversight.
 
 ## Technical Writing Samples
 
@@ -46,13 +46,13 @@ A task-based procedure for calculating multi-variable shipping costs and executi
 ---
 
 ## Skills & Tools
-* **Code/Markup:** DITA XML, Markdown, HTML, JSON, SPL, YAML  
-* **Version Control and CI/CD:** Git, GitHub, GitLab  
-* **API Documentation:** REST APIs, Swagger/OpenAPI, Postman  
-* **Static Site Generators:** Jekyll  
-* **Content Management:** MadCap Flare, Oxygen XML, XMetal, RoboHelp, SharePoint, Microsoft Office, Adobe Acrobat, Adobe Illustrator, WordPress    
-* **Standards:** Microsoft Style Guide, Information Architecture (IA)  
-* **Other Tools:** Snagit, CAD Models, Engineering Drawings, Bills of Material (BOMs), Virtual Machines  
+
+* **Methodologies:** Docs-as-Code, Topic-based Authoring, SDLC, Information Architecture (IA), Content Audits
+* **Languages & Markup:** Markdown, DITA XML, HTML, JSON, SPL (Splunk), YAML
+* **Version Control and CI/CD:** Git, GitHub, GitLab, GitHub Actions
+* **API Documentation:** REST APIs, Swagger/OpenAPI, Postman
+* **Content Management:** MadCap Flare, Oxygen XML, XMetal, RoboHelp, SharePoint, Microsoft Office
+* **Other Technical Tools:** AWS, Virtual Machines, Snagit, CAD Models, Engineering Drawings, Bills of Material (BOMs)
 
 ---
 
@@ -63,8 +63,8 @@ A task-based procedure for calculating multi-variable shipping costs and executi
 
 ---
 
-## 📫 Contact
-* [LinkedIn Profile](https://www.linkedin.com/in/justin-gilmore-163baa44)
-* &#49;&#106;&#117;&#115;&#116;&#105;&#110;&#103;&#105;&#108;&#109;&#111;&#114;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+## Contact
+* **LinkedIn:** [Justin Gilmore](https://www.linkedin.com/in/justin-gilmore-163baa44)
+* **Email:** &#49;&#106;&#117;&#115;&#116;&#105;&#110;&#103;&#105;&#108;&#109;&#111;&#114;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
 
 
