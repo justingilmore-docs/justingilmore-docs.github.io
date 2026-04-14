@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REST API: HPE OneView
+title: REST API HPE OneView
 parent: Technical Documentation
 nav_order: 2
 ---
