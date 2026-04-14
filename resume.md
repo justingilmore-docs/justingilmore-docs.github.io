@@ -20,7 +20,7 @@ Senior Technical Writer with over a decade of experience documenting complex B2B
 
 ## Professional Experience
 
-### **Walmart** | Technical Writer (Contract) | 2024 – Present
+### **Walmart** | Technical Writer (Contract) | 2024 – 2025
 * **Developed** comprehensive documentation for high-priority logistics and supply chain programs.
 * **Streamlined** cross-departmental information flow by creating structured, searchable content for enterprise-scale operations.
 
