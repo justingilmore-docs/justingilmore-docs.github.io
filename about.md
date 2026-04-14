@@ -15,7 +15,7 @@ I treat documentation as a technical product, using modular structures to ensure
 ### Ownership
 I take full accountability for the documentation process, identifying gaps and solving problems independently to ensure the final product meets my standards.
 
-## Partnership
+### Partnership
 I partner with technical experts to bridge the gap between complex systems and user outcomes. I practice self-sourcing, conducting independent technical discovery, to minimize impact on expert schedules and maximize the efficiency of exchange.
 
 ### Direct Communication
