@@ -1,11 +1,11 @@
 ---
 layout: default
-title: HPE OneView API
+title: REST API: HPE OneView
 parent: Technical Documentation
 nav_order: 2
 ---
 
-# HPE OneView API
+# REST API: HPE OneView
 ## Project Context
 I have restructured this legacy content into a standardized Markdown format.
 
