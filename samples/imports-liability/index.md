@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Imports and Liability"
+title: "Imports and Signatory Parties"
 parent: Technical Documentation
 nav_order: 2
 ---
