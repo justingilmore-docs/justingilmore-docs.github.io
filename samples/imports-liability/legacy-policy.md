@@ -1,3 +1,10 @@
+---
+layout: default
+title: "[Legacy] Imports Policy"
+parent: Imports and Signatory Parties
+nav_exclude: true
+---
+
 # [LEGACY] Involved Parties and Signatory Parties Policy
 
 **Overview**
