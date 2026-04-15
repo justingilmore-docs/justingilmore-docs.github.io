@@ -3,7 +3,7 @@ layout: default
 title: Technical Documentation
 nav_order: 2
 has_children: true
-child_nav_exclude: true
+has_toc: false
 ---
 
 # Technical Documentation Samples
