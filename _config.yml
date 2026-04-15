@@ -13,3 +13,6 @@ aux_links:
 # Feature Toggles
 search_enabled: true
 heading_anchors: true
+
+# In _config.yml
+footer_content: ""
