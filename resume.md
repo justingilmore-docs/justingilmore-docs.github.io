@@ -36,7 +36,7 @@ Senior Technical Writer with over a decade of experience documenting complex B2B
 * **Transformed** 3D CAD models and engineering Bills of Materials (BOMs) into high-accuracy installation and user documentation.
 
 ## Education & Certifications
-* **Bachelor of Arts in Technical Communication** | Boise State University
+* **Bachelor of Arts in Technical Communication** - Boise State University
 * **Google:** Technical Writing I & II (**In Progress**)
 * **GitLab:** Technical Writing Fundamentals (**In Progress**)
 * **Splunk:** Core Certified User (**Candidate**)
