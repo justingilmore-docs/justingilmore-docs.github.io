@@ -13,7 +13,12 @@ Senior **Remote** Technical Writer with **over 13 of years of experience** docum
 ### HPE OneView API
 * **Description:** A modernized REST API reference sample demonstrating Docs-as-Code principles, JSON structure, and error handling.
 * **Audience:** Infrastructure and DevOps Engineers
-* **[HPE OneView REST API Reference](./samples/oneview-api/)**
+* **Sample: [HPE OneView REST API Reference](./samples/oneview-api/)**
+
+  ### Business Logic and Plain Language Audit
+* **Description:** A comprehensive revision of complex internal business logic into accessible, plain-language documentation to reduce support overhead and improve stakeholder alignment.  
+* **Audience:** Internal Stakeholders, Legal/Compliance Teams, and Non-Technical Operations Staff.  
+* **Sample: [Imports and Signatory Parties](./samples/imports-liability/)**
 
 ### Walmart.com Cross Border: Imports
 * **Description:** The following samples are from my work documenting Walmart's new Cross-Border seller program. The primary audience is sellers on Walmart.com that want to take advantage of the shipping discounts provided by the program.
@@ -31,12 +36,7 @@ A task-based procedure for calculating multi-variable shipping costs and executi
 ### AI Content Architecture and RAG Analysis
 * **Description:** A structural analysis of Retrieval-Augmented Generation (RAG) workflows, focusing on content chunking strategies and metadata schemas for LLM optimization.  
 * **Audience:** Information Architects, AI Engineers, and Technical Product Managers.  
-* **Status:** In Progress (Expected Late April 2026).  
-
-### Business Logic and Plain Language Audit
-* **Description:** A comprehensive revision of complex internal business logic into accessible, plain-language documentation to reduce support overhead and improve stakeholder alignment.  
-* **Audience:** Internal Stakeholders, Legal/Compliance Teams, and Non-Technical Operations Staff.  
-* **Status:** In Progress (Expected Early May 2026).
+* **Status:** In Progress (Expected Early May 2026).  
 
 ### Cybersecurity & Splunk SPL Detection Guide
 * **Description:** An operational guide for security analysts detailing Search Processing Language (SPL) queries for threat detection and incident response dashboarding.  
