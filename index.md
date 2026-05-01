@@ -15,7 +15,7 @@ Senior **Remote** Technical Writer with **over 13 of years of experience** docum
 * **Audience:** Infrastructure and DevOps Engineers
 * **Sample: [HPE OneView REST API Reference](./samples/oneview-api/)**
 
-  ### Business Logic and Plain Language Audit
+### Business Logic and Plain Language Audit
 * **Description:** A comprehensive revision of complex internal business logic into accessible, plain-language documentation to reduce support overhead and improve stakeholder alignment.  
 * **Audience:** Internal Stakeholders, Legal/Compliance Teams, and Non-Technical Operations Staff.  
 * **Sample: [Imports and Signatory Parties](./samples/imports-liability/)**
