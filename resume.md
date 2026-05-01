@@ -7,10 +7,10 @@ nav_order: 5
 [Download Resume PDF]({{ site.baseurl }}/assets/justin_gilmore_resume.pdf){: .btn .btn-blue }
 
 # Justin C. Gilmore
-**Senior Remote Technical Writer** [GitHub Portfolio](https://justingilmore-docs.github.io/) | [LinkedIn](https://www.linkedin.com/in/justin-gilmore-163baa44)
+**Senior Remote Technical Writer** | [GitHub Portfolio](https://justingilmore-docs.github.io/) | [LinkedIn](https://www.linkedin.com/in/justin-gilmore-163baa44)
 
 ## Professional Summary
-Senior Technical Writer with over a decade of experience documenting complex B2B enterprise infrastructure and global logistics systems. Expert in **Docs-as-Code** workflows, including Git-based lifecycles and REST API reference development. Proven ability to rapidly master new technical domains and complex codebases with minimal oversight in remote environments.
+Senior Technical Writer with over 13 years of experience documenting complex B2B enterprise infrastructure and global logistics systems. Expert in **Docs-as-Code** workflows, including Git-based lifecycles and REST API reference development. Proven ability to rapidly master new technical domains and complex codebases with minimal oversight in remote environments.
 
 ## Technical Skills
 * **Methodologies:** Docs-as-Code, Topic-based Authoring, SDLC, Information Architecture, Content Audits
@@ -19,6 +19,9 @@ Senior Technical Writer with over a decade of experience documenting complex B2B
 * **Infrastructure:** AWS, Virtual Machines, CAD Models, Engineering Drawings, BOMs
 
 ## Professional Experience
+### Independent Contractor | Technical Systems Consultant | 2025 - Present
+* **Designed** integrated electrical and mechanical systems for specialized vehicle infrastructure to support off-grid functionality and energy efficiency.
+* **Audited** complex manufacturer schematics and hardware specifications to diagnose system failures and ensure new component compatability with existing systems.
 
 ### **Walmart** | Technical Writer (Contract) | 2024 – 2025
 * **Developed** comprehensive documentation for high-priority logistics and supply chain programs.
