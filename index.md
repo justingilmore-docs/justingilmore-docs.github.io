@@ -6,7 +6,7 @@ nav_order: 1
 
 # Justin Gilmore | Senior Technical Writer
 
-Senior **Remote** Technical Writer with **13+ years of experience** documenting complex B2B enterprise infrastructure and global logistics systems. Expert in bridging legacy documentation with modern **Docs-as-Code workflows**, including **Git-based lifecycles** and **API reference development**. Proven ability to **rapidly master new technical domains**, specialized tools, and complex codebases with minimal oversight.
+Senior **Remote** Technical Writer with **over 13 of years of experience** documenting complex B2B enterprise infrastructure and global logistics systems. Expert in bridging legacy documentation with modern **Docs-as-Code workflows**, including **Git-based lifecycles** and **API reference development**. Proven ability to **rapidly master new technical domains**, specialized tools, and complex codebases with minimal oversight.
 
 ## Technical Writing Samples
 
