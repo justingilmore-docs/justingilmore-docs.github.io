@@ -19,7 +19,7 @@ Senior Technical Writer with over 13 years of experience documenting complex B2B
 * **Infrastructure:** AWS, Virtual Machines, CAD Models, Engineering Drawings, BOMs
 
 ## Professional Experience
-### Independent Contractor | Technical Systems Consultant | 2025 - Present
+### **Independent Contractor** | Technical Systems Consultant | 2025 - Present
 * **Design** integrated electrical and mechanical systems for specialized vehicle infrastructure to support off-grid functionality and energy efficiency.
 * **Audit** complex manufacturer schematics and hardware specifications to diagnose system failures and ensure new component compatability with existing systems.
 
