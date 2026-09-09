@@ -22,8 +22,6 @@ nav_order: 3
 
 ## Sample Document: Cloud Data CLI Installation & Setup Guide
 
-Welcome to the deployment guide for the **Cloud Data Pipeline CLI**. This documentation details how to install, configure, and verify the command-line interface...
-
 # Cloud Data CLI Installation & Setup Guide
 
 Welcome to the deployment guide for the **Cloud Data Pipeline CLI**. This documentation details how to install, configure, and verify the command-line interface used to connect local data environments to cloud data storage platforms.
