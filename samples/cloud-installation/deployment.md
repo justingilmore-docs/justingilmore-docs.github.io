@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pipeline Deployment & Initial Setup
+nav_exclude: true
+---
+
 # Pipeline Deployment & Initial Setup
 
 Once the CLI binary is installed, follow these steps to initialize your working directory, configure cloud authentication, and execute a test pipeline.
