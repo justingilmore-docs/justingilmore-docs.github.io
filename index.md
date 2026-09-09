@@ -13,7 +13,7 @@ Senior **Remote** Technical Writer with **over 13 of years of experience** docum
 
 * **Description**: A end-to-end docs-as-code sample demonstrating bi-directional synchronization between GitHub version control and GitBook publishing.
 * **Audience**: Technical Writers, DevOps Engineers, and Software Developers.
-* **Sample**: [Cloud Data CLI Installation Guide](./samples/cloud-installation/README.md) | [Live GitBook Site](https://app.gitbook.com/o/1odoA8z2l1Yqq2gVctZV/sites/site_WVUJJ/s/OXGZuWaMwnUMZQsVApJa/)
+* **Sample**: [Cloud Data CLI Installation Guide](./samples/cloud-installation/README.md) | [Live GitBook Site](https://justin-gilmore.gitbook.io/installation/)
 ### HPE OneView API
 * **Description:** A modernized REST API reference sample demonstrating Docs-as-Code principles, JSON structure, and error handling.
 * **Audience:** Infrastructure and DevOps Engineers
