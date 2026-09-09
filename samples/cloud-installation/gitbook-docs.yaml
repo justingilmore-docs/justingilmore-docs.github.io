@@ -6,5 +6,6 @@ site:
       key: cloud-installation
       title: Installation Guide
       path: cloud-installation
+      default: true
       content:
         directory: samples/cloud-installation
