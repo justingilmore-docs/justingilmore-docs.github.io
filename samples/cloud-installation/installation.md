@@ -1,6 +1,3 @@
-Here is the clean, pure Markdown version without any special GitBook-specific tags:
-
-```markdown
 # Installation & Configuration
 
 This guide provides instructions for installing the Cloud Data CLI across supported operating systems using package managers, pre-compiled binaries, or Docker containers.
@@ -72,7 +69,5 @@ data-cli doctor
 ```
 
 > **Tip:** If `data-cli doctor` returns network timeout warnings, refer to the firewall rules outlined in [Prerequisites](https://www.google.com/search?q=prerequisites.md).
-
-```
 
 ```
