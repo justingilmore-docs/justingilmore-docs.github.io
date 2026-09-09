@@ -26,3 +26,29 @@ To verify installed versions, run:
 curl --version
 git --version
 openssl version
+
+```
+
+---
+
+## Authentication & IAM Roles
+
+To establish a connection with the cloud data platform, you must possess the following credentials and permissions:
+
+* **API Access Token:** Generated from your Cloud Console under **Settings > API Keys**.
+* **Required IAM Permissions:**
+* `DataIngestWriter` (to push data streams)
+* `PipelineViewer` (to monitor job execution status)
+
+
+
+> **Security Note:** Never store API keys in plain text within public repositories. Always pass credentials via local environment variables or secure key vaults.
+
+---
+
+## Network & Firewall Configuration
+
+The CLI requires outbound HTTPS communication over **Port 443** to connect with cloud endpoints. Ensure your network firewall permits traffic to:
+
+* `api.clouddata.example.com` (REST API control plane)
+* `ingest.clouddata.example.com` (Data streaming ingress point)
