@@ -8,10 +8,6 @@ grand_parent: Technical Documentation
 
 This guide provides instructions for installing the Cloud Data CLI across supported operating systems using package managers, pre-compiled binaries, or Docker containers.
 
-{% hint style="info" %}
-💡 **Docs-as-Code Note**: This installation page was modified inside GitBook and synced directly to GitHub via continuous integration.
-{% endhint %}
-
 ***
 
 ## 1. Package Manager Installation
