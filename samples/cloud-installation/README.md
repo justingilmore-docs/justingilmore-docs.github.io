@@ -2,7 +2,8 @@
 layout: default
 title: Cloud Data CLI Installation Guide
 parent: Technical Documentation
-has_children: false
+has_children: true
+nav_order: 3
 ---
 
 # Cloud Data CLI Installation & Setup Guide
