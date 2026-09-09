@@ -74,7 +74,6 @@ data-cli doctor
 
 ```
 
-> **Tip:** If `data-cli doctor` returns network timeout warnings, refer to the firewall rules outlined in [Prerequisites](https://www.google.com/search?q=prerequisites.md).
+> **Tip:** If `data-cli doctor` returns network timeout warnings, refer to the firewall rules outlined in [Prerequisites](./prerequisites.md).
 
-```
 ```
