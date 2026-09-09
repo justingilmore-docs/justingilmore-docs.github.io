@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Installation & Configuration
-nav_exclude: true
+parent: Cloud Data CLI Installation & Setup Guide
+grand_parent: Technical Documentation
 ---
 
 # Installation & Configuration
