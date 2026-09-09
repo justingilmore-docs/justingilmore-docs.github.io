@@ -10,16 +10,20 @@ nav_order: 5
 **Senior Remote Technical Writer** | [GitHub Portfolio](https://justingilmore-docs.github.io/) | [LinkedIn](https://www.linkedin.com/in/justin-gilmore-163baa44)
 
 ## Professional Summary
-Senior Technical Writer with over 13 years of experience documenting complex B2B enterprise infrastructure and global logistics systems. Expert in **Docs-as-Code** workflows, including Git-based lifecycles and REST API reference development. Proven ability to rapidly master new technical domains and complex codebases with minimal oversight in remote environments.
+Senior Technical Writer with over 13 years of experience documenting complex B2B enterprise platforms and data systems. Expert in **Docs-as-Code** workflows, including Git-based lifecycles and REST API reference development. Proven ability to rapidly master new technical domains and complex codebases with minimal oversight in remote environments.
 
 ## Technical Skills
 * **Methodologies:** Docs-as-Code, Topic-based Authoring, SDLC, Information Architecture, Content Audits
 * **Languages & Markup:** Markdown, DITA XML, HTML, JSON, SPL (Splunk), YAML, AWS CLI
-* **Tools:** Git/GitHub, GitLab, GitHub Actions, MadCap Flare, Oxygen XML, Postman, Swagger
+* **Tools:** Git/GitHub, GitLab, GitBook, GitHub Actions, MadCap Flare, Oxygen XML, Postman, Swagger
 * **Infrastructure:** AWS, Virtual Machines, CAD Models, Engineering Drawings, BOMs
 
 ## Professional Experience
-### **Independent Contractor** | Technical Systems Consultant | 2025 - Present
+### **Independent Contractor (Handshake.ai & Data Annotation)** | AI Content & Model Evaluation Specialist | 2026 - Present
+* **Establish and apply** structured evaluation criteria to audit complex LLM AI model outputs, ensuring rigorous data quality, technical accuracy, and precise documentation standards.
+* **Audit and review** adversarial testing submissions from team members to verify strict adherence to complex multi-step protocols.
+
+### **Independent Contractor** | Technical Systems Consultant | 2025 - 2026
 * **Design** integrated electrical and mechanical systems for specialized vehicle infrastructure to support off-grid functionality and energy efficiency.
 * **Audit** complex manufacturer schematics and hardware specifications to diagnose system failures and ensure new component compatability with existing systems.
 
