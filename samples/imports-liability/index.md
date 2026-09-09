@@ -3,6 +3,7 @@ layout: default
 title: "Imports and Signatory Parties"
 parent: Technical Documentation
 nav_order: 2
+has_children: false
 ---
 
 # Imports and Signatory Parties: Refactor
