@@ -34,9 +34,9 @@ This guide provides step-by-step instructions for systems administrators and dat
 
 ## What's Covered
 
-* **Prerequisites:** System requirements, IAM permission roles, and API authentication tokens.
-* **Installation:** OS-specific package installation commands and verifying binary builds.
-* **Deployment & Verification:** Initializing configuration files, mapping environment variables, and testing connection latency.
+* **[Prerequisites & System Requirements](./prerequisites.md)** System requirements, IAM permission roles, and API authentication tokens.
+* **[Installation & Configuration](./installation.md)** OS-specific package installation commands and verifying binary builds.
+* **[Pipeline Deployment & Verification](./deployment.md)** Initializing configuration files, mapping environment variables, and testing connection latency.
 
 ---
 
