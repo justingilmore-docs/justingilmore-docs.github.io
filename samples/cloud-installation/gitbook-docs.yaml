@@ -8,4 +8,4 @@ site:
       path: cloud-installation
       default: true
       content:
-        directory: samples/cloud-installation
+        directory: ./
