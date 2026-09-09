@@ -1,15 +1,18 @@
 ---
-layout: default
 title: Installation & Configuration
 parent: Cloud Data CLI Installation & Setup Guide
 grand_parent: Technical Documentation
 ---
 
-# Installation & Configuration
+# Installation
 
 This guide provides instructions for installing the Cloud Data CLI across supported operating systems using package managers, pre-compiled binaries, or Docker containers.
 
----
+{% hint style="info" %}
+💡 **Docs-as-Code Note**: This installation page was modified inside GitBook and synced directly to GitHub via continuous integration.
+{% endhint %}
+
+***
 
 ## 1. Package Manager Installation
 
@@ -46,7 +49,7 @@ docker run -rm clouddata/data-cli:latest --version
 
 ```
 
----
+***
 
 ## 2. Verifying the Installation
 
@@ -59,12 +62,12 @@ data-cli --version
 
 **Expected output:**
 
-```text
+```
 data-cli version 2.14.0 (x86_64-unknown-linux-gnu)
 
 ```
 
----
+***
 
 ## 3. Post-Installation Verification
 
@@ -77,4 +80,5 @@ data-cli doctor
 
 > **Tip:** If `data-cli doctor` returns network timeout warnings, refer to the firewall rules outlined in [Prerequisites](https://www.google.com/search?q=prerequisites.md).
 
+```
 ```
