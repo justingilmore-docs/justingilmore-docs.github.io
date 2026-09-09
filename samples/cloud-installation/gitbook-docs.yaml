@@ -1,0 +1,10 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Cloud Installation Guide
+  structure:
+    - type: space
+      key: cloud-installation
+      title: Installation Guide
+      path: cloud-installation
+      content:
+        directory: samples/cloud-installation
