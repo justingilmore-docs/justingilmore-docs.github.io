@@ -9,7 +9,10 @@ nav_order: 1
 Senior **Remote** Technical Writer with **over 13 of years of experience** documenting complex B2B enterprise infrastructure and global logistics systems. Expert in bridging legacy documentation with modern **Docs-as-Code workflows**, including **Git-based lifecycles** and **API reference development**. Proven ability to **rapidly master new technical domains**, specialized tools, and complex codebases with minimal oversight.
 
 ## Technical Writing Samples
-
+### GitBook Workflow
+* **Description:** An Installation Procedure edited using a GitBook workflow.
+* **Audience:** A text
+* **Sample:** Link
 ### HPE OneView API
 * **Description:** A modernized REST API reference sample demonstrating Docs-as-Code principles, JSON structure, and error handling.
 * **Audience:** Infrastructure and DevOps Engineers
@@ -36,12 +39,12 @@ A task-based procedure for calculating multi-variable shipping costs and executi
 ### AI Content Architecture and RAG Analysis
 * **Description:** A structural analysis of Retrieval-Augmented Generation (RAG) workflows, focusing on content chunking strategies and metadata schemas for LLM optimization.  
 * **Audience:** Information Architects, AI Engineers, and Technical Product Managers.  
-* **Status:** In Progress (Expected Early May 2026).  
+* **Status:** In Progress.  
 
 ### Cybersecurity & Splunk SPL Detection Guide
 * **Description:** An operational guide for security analysts detailing Search Processing Language (SPL) queries for threat detection and incident response dashboarding.  
 * **Audience:** Security Operations Center (SOC) Analysts and Threat Response Teams.  
-* **Status:** In Progress (Expected Mid-May 2026).  
+* **Status:** In Progress.  
 
 ---
 
@@ -53,13 +56,6 @@ A task-based procedure for calculating multi-variable shipping costs and executi
 * **API Documentation:** REST APIs, Swagger/OpenAPI, Postman
 * **Content Management:** MadCap Flare, Oxygen XML, XMetal, RoboHelp, SharePoint, Microsoft Office
 * **Other Technical Tools:** AWS, Virtual Machines, Snagit, CAD Models, Engineering Drawings, Bills of Material (BOMs)
-
----
-
-## Certifications
-* **Google:** Technical Writing I & II (In Progress)
-* **GitLab:** Technical Writing Fundamentals (In Progress)
-* **Splunk:** Splunk Core Certified User (Candidate)
 
 ---
 
