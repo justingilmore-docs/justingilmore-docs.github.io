@@ -1,3 +1,9 @@
+---
+layout: default
+title: Installation & Configuration
+nav_exclude: true
+---
+
 # Installation & Configuration
 
 This guide provides instructions for installing the Cloud Data CLI across supported operating systems using package managers, pre-compiled binaries, or Docker containers.
