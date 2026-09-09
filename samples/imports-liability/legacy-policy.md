@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "[Legacy] Imports Policy"
-parent: Imports and Signatory Parties
 nav_exclude: true
 ---
 
