@@ -15,7 +15,7 @@ nav_order: 3
 > * **Sample Output**: The content below represents a fictional end-user installation guide written to illustrate multi-page structuring, deployment workflows, and technical instruction formatting.
 > 
 > **Live Links**:
-> * **View Rendered GitBook Site**: [Cloud Data CLI Guide (GitBook Space)](https://your-gitbook-url.gitbook.io)
+> * **View Rendered GitBook Site**: [Cloud Data CLI Guide (GitBook Space)](https://justin-gilmore.gitbook.io/installation/)
 > * **View Source Directory**: [GitHub Repository Folder](https://github.com/justingilmore-docs/justingilmore-docs.github.io/tree/main/samples/cloud-installation)
 
 ---
