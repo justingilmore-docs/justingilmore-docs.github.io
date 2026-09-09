@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prerequisites & System Requirements
+nav_exclude: true
+---
+
 # Prerequisites & System Requirements
 
 Before installing and configuring the Cloud Data CLI, verify that your environment meets the operating system, dependency, and network access requirements outlined below.
